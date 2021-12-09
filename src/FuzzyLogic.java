@@ -173,13 +173,4 @@ public class FuzzyLogic {
         
         logic.defuzzification();
     }
-
-    
-
-    
-
-    
-
-    
-
 }
